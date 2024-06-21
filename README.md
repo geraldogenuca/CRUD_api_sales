@@ -27,5 +27,13 @@ Now installing libs and framework that we will only use in the development proce
 - (npm i -g... ...-D) - command to install packages, the 'i' of install and the 'g' and to save the lib or framework
                         global form, meaning that it is installed not only in the current project, "D" indicating that it is
                         a development-only dependency.
+(nodemon) - Nodemon is a tool that allows you to automatically restart the Node server. js whenever changes 
+            in the application files are detected.
 *npm i -s sequelize-cli - morgan -D - command to install packages, the 'i' of install and the 's' and to save the lib or 
                          framework in the project, "D" indicating that it is a development-only dependency.
+(sequelize-cli) - Sequelize CLI. Sequelize has a command-line utility called Sequelize CLI that helps 
+                  in various activities linked to our application models, including features to help us 
+                  with migrations.
+(morgan) - Morgan is an HTTP Request Level Middleware. It's a great tool that records requests together 
+           with some other information depending on your configuration and the preset used. It is very useful during 
+           debugging and also if you want to create log files.
