@@ -37,3 +37,11 @@ Now installing libs and framework that we will only use in the development proce
 - (morgan) - Morgan is an HTTP Request Level Middleware. It's a great tool that records requests together 
            with some other information depending on your configuration and the preset used. It is very useful during 
            debugging and also if you want to create log files.
+
+4- Create the project’s http server.
+- View file (server.js)
+
+5- Initializing initial project frameworks, libs and dependencies.
+- View file (app.js)
+
+6- Creating project folder structure.
